@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:  "inter", sans-serif;;
+}
+
+.hero{
+    font-family: "inter", sans-serif;
+}
+
+.hero P{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.education-text h5 {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.education-text p{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.work{
+    margin-top: 12%;
+}
+
+.btn{
+    width: 50%;
+}
+
+.about{
+    margin-top: 10%;
+}
+
+.about p{
+    font-size: 25px;
+    font-weight: 300;
+}
+
